@@ -1,0 +1,10 @@
+# ---------------------------
+# Dependencias necesarias para ejecutar el proyecto.
+# Intalar con: pip install -r requirements.txt
+# ---------------------------
+
+fastapi
+uvicorn[standard]
+pydantic
+pymongo
+bson
